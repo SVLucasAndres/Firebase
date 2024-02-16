@@ -25,3 +25,18 @@
 #container a {
   text-decoration: none;
 }
+
+ion-button{
+  --border-radius: 50%;
+  width:3rem;
+  height: 3rem;
+}
+ion-card{
+  width:100%;
+}
+ion-col{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
