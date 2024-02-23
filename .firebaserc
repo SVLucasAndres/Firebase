@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "practica-1-9a0ef": {
+      "hosting": {
+        "app": [
+          "practica-1-9a0ef"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "practica-1-9a0ef"
+  }
+}
